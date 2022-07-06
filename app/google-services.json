@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1021560489205",
+    "firebase_url": "https://uberriding-default-rtdb.firebaseio.com",
+    "project_id": "uberriding",
+    "storage_bucket": "uberriding.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021560489205:android:58708ccf6da9280aabb1bc",
+        "android_client_info": {
+          "package_name": "com.sopan.uber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1021560489205-sfao4nj7gh8bdk8ctsgfnhti4dehi209.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sopan.uber",
+            "certificate_hash": "e9eeccf56e79a61dd72cb5ae8e77103610ae5dd2"
+          }
+        },
+        {
+          "client_id": "1021560489205-pviupimlo5o38hi7psnckl42a7ohiv09.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrvFRW0kKCzU_jPIFVPFuCnCymdXXBpFs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1021560489205-pviupimlo5o38hi7psnckl42a7ohiv09.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
